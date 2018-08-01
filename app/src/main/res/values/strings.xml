@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobiledookon</string>
+    <string name="title_product">Product</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_comment">Comment</string>
+    <string name="title_sale">Sale</string>
+
+    <string name="avatar">Avatar</string>
+</resources>
